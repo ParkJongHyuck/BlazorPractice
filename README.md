@@ -9,7 +9,9 @@ Ec2에 호스팅 된 웹 앱 ↓↓
 http://3.36.117.126:90/  
 (동적IP이기 때문에 변경될 가능성이 큼)  
 
+S3 정적 호스팅 연습  
+https://bluedays-blazor-practice.s3.ap-northeast-2.amazonaws.com/index.html  
+
 # BlazorWorkshopCloneCoding  
 원본 : https://github.com/dotnet-presentations/blazor-workshop/  
-위 튜토리얼을 따라가며 연습 (S3 정적 호스팅)  
-https://bluedays-blazor-practice.s3.ap-northeast-2.amazonaws.com/index.html  
+단계별로 튜토리얼 진행
