@@ -1,0 +1,9 @@
+G:\DevCache\BlazorPractice\BlazorPractice\Shared\bin\Release\netstandard2.1\BlazorPractice.Shared.deps.json
+G:\DevCache\BlazorPractice\BlazorPractice\Shared\bin\Release\netstandard2.1\BlazorPractice.Shared.dll
+G:\DevCache\BlazorPractice\BlazorPractice\Shared\bin\Release\netstandard2.1\BlazorPractice.Shared.pdb
+G:\DevCache\BlazorPractice\BlazorPractice\Shared\obj\Release\netstandard2.1\BlazorPractice.Shared.csprojAssemblyReference.cache
+G:\DevCache\BlazorPractice\BlazorPractice\Shared\obj\Release\netstandard2.1\BlazorPractice.Shared.AssemblyInfoInputs.cache
+G:\DevCache\BlazorPractice\BlazorPractice\Shared\obj\Release\netstandard2.1\BlazorPractice.Shared.AssemblyInfo.cs
+G:\DevCache\BlazorPractice\BlazorPractice\Shared\obj\Release\netstandard2.1\BlazorPractice.Shared.csproj.CoreCompileInputs.cache
+G:\DevCache\BlazorPractice\BlazorPractice\Shared\obj\Release\netstandard2.1\BlazorPractice.Shared.dll
+G:\DevCache\BlazorPractice\BlazorPractice\Shared\obj\Release\netstandard2.1\BlazorPractice.Shared.pdb
